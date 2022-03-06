@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Greater experience - HTML, CSS, JavaScript, NodeJS, Express, Advpl
-- Basic knowledge - Python, Java, C++, C#
+- 🌱 Basic knowledge - Python, Java, C++, C#
 - 📫 How to reach me: joaoricardozandona@hotmail.com / joaoricardozandona111@gmail.com
 
 
