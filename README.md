@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Greater experience - HTML, CSS, JavaScript, TypeScript, NodeJS, React, Express, Advpl
+- 🌱 Greater experience - HTML, CSS, JavaScript, TypeScript, NodeJS, React, Angular, Express, Advpl
 - 🌱 Basic knowledge - Python, Java, C++, C#
 - 📫 How to reach me: joaoricardozandona@hotmail.com / joaoricardozandona111@gmail.com
 
